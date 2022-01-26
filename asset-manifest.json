@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/profi-travel-task-1/static/css/main.188973a1.css",
+    "main.js": "/profi-travel-task-1/static/js/main.60d58e1c.js",
+    "index.html": "/profi-travel-task-1/index.html",
+    "main.188973a1.css.map": "/profi-travel-task-1/static/css/main.188973a1.css.map",
+    "main.60d58e1c.js.map": "/profi-travel-task-1/static/js/main.60d58e1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.188973a1.css",
+    "static/js/main.60d58e1c.js"
+  ]
+}
