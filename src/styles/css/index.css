@@ -1,0 +1,57 @@
+.phone-form__input {
+  width: 30%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+  outline: none;
+}
+
+.phone-form__input:hover {
+  border: 2px solid #d7ecfa;
+}
+
+.input-red {
+  border: 2px solid red;
+}
+
+.input-yellow {
+  border: 2px solid yellow;
+}
+
+.phone-form__button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.phone-form {
+  margin: 0 auto;
+  width: 80vw;
+  height: 70vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.phone-form p {
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+body {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
