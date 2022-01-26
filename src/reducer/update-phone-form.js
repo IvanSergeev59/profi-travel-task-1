@@ -81,7 +81,8 @@ const updatePhoneForm = (state, action) => {
                 ...state.phoneForm,
                 phones: addCurrentNumberToArr(phones, currentNumber),
                 currentNumber: '',
-                buttonDisabled: ''
+                buttonDisabled: true,
+                phoneBorder: ''
                
             }
         case "CHANGE_CURRENT_NUMBER":
